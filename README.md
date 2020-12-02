@@ -26,7 +26,7 @@ npm install jsonwebtoken
 npm install mongoose
 npm install nodemon
 ```
-### **verify whether the dependencies have been installed in the package.json file in both frontend and backend folders**
+### **verify whether the dependencies have been installed in the package.json file in both frontend and project root folders**
 
 ### **To run frontend in seperate terminal**
 ```shell
